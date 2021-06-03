@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (bgi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TextEditor.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  winthread.cxx
+  winbgi.cxx
+  text.cxx
+  main.cxx
+  palette.cxx
+  mouse.cxx
+  misc.cxx
+  file.cxx
+  drawing.cxx
+  dibutil.cxx
+  bgiout.cxx
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+  bgi.vcxproj -> C:\Users\Nuzha\Desktop\TextEditor\Debug\TextEditor.exe
+  bgi.vcxproj -> C:\Users\Nuzha\Desktop\TextEditor\Debug\TextEditor.pdb (Full PDB)
