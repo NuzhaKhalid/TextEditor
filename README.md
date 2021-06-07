@@ -7,6 +7,6 @@ The GUI looks as follows.
 
 <img src="image/TextEditor.png" width="400" height="400" />
 
-The editor uses BGI library as graphics controller, so it is needed for compiling. You can run the project by opening ``bgi.sln`` file in Visual Studio and then executing the file. 
+The editor uses BGI library as graphics controller, so it is needed for compiling. You can run the project by opening ``bgi.sln`` file in Visual Studio and then executing the project. 
 
 For more information on BGI, please refer to https://home.cs.colorado.edu/~main/cs1300/doc/bgi/bgi.html
